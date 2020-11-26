@@ -103,29 +103,4 @@ export default function CreateNew() {
 }
 
 
-// import React from 'react'
-// import Header from '../component/Header'
-// import Lolly from '../component/Lolly'
 
-
-
-// export default function CreateNew() {
-//     return (
-//         <div className="container">
-//             <Header />
-//             <div className="lollyFormDiv">
-//                 <div>
-//                     <Lolly fillLollyTop="green" fillLollyMiddle="red" fillLollyBottom="yellow"/>
-//              </div>
-//                 <div className="lollyFlavourDiv">
-//                     <input type = "color" value="#090979" className="colorPicker" name="flavourTop" id="flavourTop" ></input>
-//                     <input type = "color" value="#fcb045" className="colorPicker" name="flavourTop" id="flavourTop" ></input>
-//                     <input type = "color" value="#94bbe9" className="colorPicker" name="flavourTop" id="flavourTop" ></input>
-//              </div>
-//                 <div>
-//                     Form
-//                 </div>
-//             </div>
-//         </div>
-//     )
-// }
